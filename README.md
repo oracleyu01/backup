@@ -21,7 +21,6 @@
 - **1.아카이브 모드로 변환하기**: [관련 코드](https://github.com/oracleyu01/backup/blob/main/archive%20mode.txt)
  
 
-- **스크립트는 계속 update 될 예정입니다.**
 
 
 
