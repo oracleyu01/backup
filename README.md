@@ -16,9 +16,9 @@
 ## 수업 자료 (업데이트: 2024.03.04)
 
 
-### 작업형 1번
+### 백업과 복구 환경 셋팅
  
-- **1.col backup**: [관련 코드](링크)
+- **1.아카이브 모드로 변환하기**: [관련 코드](https://github.com/oracleyu01/backup/blob/main/archive%20mode.txt)
  
 
 - **스크립트는 계속 update 될 예정입니다.**
